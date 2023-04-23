@@ -1,0 +1,19 @@
+.ListCard {
+  align-items: center;
+  background: #fff;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+}
+
+.done_task {
+  text-decoration: line-through;
+}
+
+.edit,
+.delete,
+.check {
+  padding: 10px;
+}

@@ -1,0 +1,14 @@
+.filter_select {
+  background-color: #cccdde;
+  border: none;
+  color: #585858;
+  cursor: pointer;
+  padding: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding: 0.8rem 2rem;
+}

@@ -1,0 +1,31 @@
+.input_types {
+  background-color: #fff;
+  border: none;
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+  padding: 1rem;
+  width: 95%;
+}
+
+label {
+  color: #646681;
+  font-size: 1.6rem;
+}
+
+h1 {
+  color: #646681;
+}
+
+button {
+  background-color: #646ff0;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  padding: 0.8rem 2rem;
+  margin-right: 10px;
+}

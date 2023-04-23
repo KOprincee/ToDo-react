@@ -1,0 +1,22 @@
+.main_div {
+  background-color: #ecedf6;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.data {
+  background-color: #dedfe1;
+  border-radius: 8px;
+  color: #585858;
+  font-size: 1.6rem;
+  font-weight: 500;
+  height: auto;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  width: -webkit-max-content;
+  width: max-content;
+}

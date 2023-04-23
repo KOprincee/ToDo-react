@@ -1,0 +1,20 @@
+.main_title {
+  color: var(--black-1);
+  display: inline-block;
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 2rem auto 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+  --primaryPurple: #646ff0;
+  --black-1: #646681;
+  --black-2: #585858;
+  --bg-1: #f8f8ff;
+  --bg-2: #ecedf6;
+  --bg-3: #cccdde;
+  --gray-1: #eee;
+  --gray-2: #dedfe1;
+  --black: #000;
+  --white: #fff;
+}
