@@ -12,8 +12,8 @@
   text-decoration: line-through;
 }
 
-.edit,
 .delete,
 .check {
   padding: 10px;
+  cursor: pointer;
 }
