@@ -38,7 +38,6 @@ const App = () => {
     setNewTask(taskState.filter((el) => el.id !== id));
     setfilterState(taskState.filter((el) => el.id !== id));
 
-    console.log(taskState);
     const Task = {
       id: id,
       title: title,
